@@ -1,0 +1,99 @@
+/usr/local/Cellar/python/3.7.3/bin/python3 /Users/indervir/git/tensorflow/logistic_regression.py
+WARNING:tensorflow:From /Users/indervir/git/tensorflow/logistic_regression.py:24: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From /Users/indervir/git/tensorflow/logistic_regression.py:32: The name tf.random_normal is deprecated. Please use tf.random.normal instead.
+
+WARNING:tensorflow:From /Users/indervir/git/tensorflow/logistic_regression.py:51: The name tf.train.exponential_decay is deprecated. Please use tf.compat.v1.train.exponential_decay instead.
+
+WARNING:tensorflow:From /Users/indervir/git/tensorflow/logistic_regression.py:59: The name tf.train.GradientDescentOptimizer is deprecated. Please use tf.compat.v1.train.GradientDescentOptimizer instead.
+
+WARNING:tensorflow:From /Users/indervir/git/tensorflow/logistic_regression.py:63: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-10-20 17:02:20.249335: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+WARNING:tensorflow:From /Users/indervir/git/tensorflow/logistic_regression.py:65: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+WARNING:tensorflow:From /Users/indervir/git/tensorflow/logistic_regression.py:78: The name tf.summary.histogram is deprecated. Please use tf.compat.v1.summary.histogram instead.
+
+WARNING:tensorflow:From /Users/indervir/git/tensorflow/logistic_regression.py:81: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+WARNING:tensorflow:From /Users/indervir/git/tensorflow/logistic_regression.py:91: The name tf.summary.merge is deprecated. Please use tf.compat.v1.summary.merge instead.
+
+WARNING:tensorflow:From /Users/indervir/git/tensorflow/logistic_regression.py:94: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+step 0, training accuracy 0.333333, cost 33.4639, change in cost 33.4639
+step 10, training accuracy 0.616162, cost 29.8888, change in cost 3.5751
+step 20, training accuracy 0.646465, cost 27.9732, change in cost 1.91564
+step 30, training accuracy 0.646465, cost 26.3571, change in cost 1.61614
+step 40, training accuracy 0.646465, cost 25.0145, change in cost 1.34256
+step 50, training accuracy 0.646465, cost 23.9051, change in cost 1.1094
+step 60, training accuracy 0.646465, cost 22.9864, change in cost 0.918749
+step 70, training accuracy 0.646465, cost 22.2205, change in cost 0.765886
+step 80, training accuracy 0.646465, cost 21.5763, change in cost 0.644169
+step 90, training accuracy 0.646465, cost 21.0291, change in cost 0.547182
+step 100, training accuracy 0.666667, cost 20.5596, change in cost 0.469513
+step 110, training accuracy 0.666667, cost 20.1527, change in cost 0.40687
+step 120, training accuracy 0.666667, cost 19.7968, change in cost 0.355923
+step 130, training accuracy 0.666667, cost 19.4827, change in cost 0.314119
+step 140, training accuracy 0.666667, cost 19.2032, change in cost 0.279524
+step 150, training accuracy 0.676768, cost 18.9525, change in cost 0.250639
+step 160, training accuracy 0.686869, cost 18.7262, change in cost 0.226332
+step 170, training accuracy 0.69697, cost 18.5205, change in cost 0.205711
+step 180, training accuracy 0.69697, cost 18.3324, change in cost 0.188093
+step 190, training accuracy 0.717172, cost 18.1595, change in cost 0.172926
+step 200, training accuracy 0.727273, cost 17.9997, change in cost 0.159792
+step 210, training accuracy 0.737374, cost 17.8513, change in cost 0.148342
+step 220, training accuracy 0.747475, cost 17.713, change in cost 0.138298
+step 230, training accuracy 0.757576, cost 17.5836, change in cost 0.129446
+step 240, training accuracy 0.767677, cost 17.462, change in cost 0.121603
+step 250, training accuracy 0.787879, cost 17.3474, change in cost 0.114614
+step 260, training accuracy 0.787879, cost 17.239, change in cost 0.108355
+step 270, training accuracy 0.787879, cost 17.1363, change in cost 0.102741
+step 280, training accuracy 0.787879, cost 17.0386, change in cost 0.0976639
+step 290, training accuracy 0.79798, cost 16.9455, change in cost 0.0930691
+step 300, training accuracy 0.79798, cost 16.8567, change in cost 0.0888863
+step 310, training accuracy 0.79798, cost 16.7716, change in cost 0.0850697
+step 320, training accuracy 0.79798, cost 16.69, change in cost 0.0815754
+step 330, training accuracy 0.79798, cost 16.6117, change in cost 0.0783615
+step 340, training accuracy 0.818182, cost 16.5363, change in cost 0.0754013
+step 350, training accuracy 0.828283, cost 16.4636, change in cost 0.0726643
+step 360, training accuracy 0.838384, cost 16.3935, change in cost 0.0701256
+step 370, training accuracy 0.838384, cost 16.3257, change in cost 0.06777
+step 380, training accuracy 0.838384, cost 16.2601, change in cost 0.0655727
+step 390, training accuracy 0.848485, cost 16.1966, change in cost 0.0635185
+step 400, training accuracy 0.848485, cost 16.135, change in cost 0.0616016
+step 410, training accuracy 0.848485, cost 16.0752, change in cost 0.0597992
+step 420, training accuracy 0.848485, cost 16.0171, change in cost 0.0581036
+step 430, training accuracy 0.858586, cost 15.9606, change in cost 0.0565081
+step 440, training accuracy 0.858586, cost 15.9056, change in cost 0.0550013
+step 450, training accuracy 0.868687, cost 15.852, change in cost 0.0535793
+step 460, training accuracy 0.878788, cost 15.7998, change in cost 0.0522327
+step 470, training accuracy 0.878788, cost 15.7488, change in cost 0.050951
+step 480, training accuracy 0.878788, cost 15.6991, change in cost 0.049737
+step 490, training accuracy 0.878788, cost 15.6505, change in cost 0.0485811
+step 500, training accuracy 0.878788, cost 15.603, change in cost 0.0474815
+step 510, training accuracy 0.878788, cost 15.5566, change in cost 0.0464296
+step 520, training accuracy 0.888889, cost 15.5112, change in cost 0.0454226
+step 530, training accuracy 0.89899, cost 15.4667, change in cost 0.044466
+step 540, training accuracy 0.89899, cost 15.4232, change in cost 0.0435448
+step 550, training accuracy 0.89899, cost 15.3805, change in cost 0.0426626
+step 560, training accuracy 0.89899, cost 15.3387, change in cost 0.0418158
+step 570, training accuracy 0.89899, cost 15.2977, change in cost 0.0410042
+step 580, training accuracy 0.909091, cost 15.2575, change in cost 0.0402222
+step 590, training accuracy 0.909091, cost 15.218, change in cost 0.0394697
+step 600, training accuracy 0.909091, cost 15.1792, change in cost 0.0387421
+step 610, training accuracy 0.909091, cost 15.1412, change in cost 0.038044
+step 620, training accuracy 0.909091, cost 15.1038, change in cost 0.0373688
+step 630, training accuracy 0.909091, cost 15.0671, change in cost 0.0367155
+step 640, training accuracy 0.909091, cost 15.031, change in cost 0.036088
+step 650, training accuracy 0.909091, cost 14.9956, change in cost 0.0354757
+step 660, training accuracy 0.909091, cost 14.9607, change in cost 0.0348854
+step 670, training accuracy 0.909091, cost 14.9264, change in cost 0.0343151
+step 680, training accuracy 0.909091, cost 14.8926, change in cost 0.0337601
+step 690, training accuracy 0.909091, cost 14.8594, change in cost 0.0332232
+/usr/local/lib/python3.7/site-packages/numpy/core/fromnumeric.py:3118: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+/usr/local/lib/python3.7/site-packages/numpy/core/_methods.py:85: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+final accuracy on test set: 0.9
+
+Process finished with exit code 0

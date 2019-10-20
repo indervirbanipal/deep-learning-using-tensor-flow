@@ -1,0 +1,33 @@
+/usr/local/Cellar/python/3.7.3/bin/python3 /Users/indervir/git/tensorflow/linear_regression.py
+[0.  0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.  1.1 1.2 1.3 1.4 1.5 1.6 1.7
+ 1.8 1.9 2.  2.1 2.2 2.3 2.4 2.5 2.6 2.7 2.8 2.9 3.  3.1 3.2 3.3 3.4 3.5
+ 3.6 3.7 3.8 3.9 4.  4.1 4.2 4.3 4.4 4.5 4.6 4.7 4.8 4.9]
+WARNING:tensorflow:From /Users/indervir/git/tensorflow/linear_regression.py:41: The name tf.train.GradientDescentOptimizer is deprecated. Please use tf.compat.v1.train.GradientDescentOptimizer instead.
+
+WARNING:tensorflow:From /Users/indervir/git/tensorflow/linear_regression.py:47: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+WARNING:tensorflow:From /Users/indervir/git/tensorflow/linear_regression.py:48: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-10-20 16:23:29.874735: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+0 26992.594 77.07106 46.110275
+5 1891.7205 58.84462 47.59573
+10 1762.7241 57.65104 53.019833
+15 1653.5897 56.36652 58.023922
+20 1559.0441 55.172844 62.68204
+25 1477.1372 54.061794 67.01765
+30 1406.179 53.027664 71.05309
+35 1344.7057 52.065136 74.809135
+40 1291.4506 51.169243 78.30512
+45 1245.3145 50.33538 81.559074
+50 1205.3451 49.55925 84.58775
+55 1170.7189 48.83685 87.40674
+60 1140.7214 48.164467 90.03055
+65 1114.734 47.53864 92.472694
+70 1092.2203 46.956135 94.74576
+75 1072.7163 46.413967 96.86146
+80 1055.8193 45.909332 98.83067
+85 1041.1812 45.439632 100.66355
+90 1028.4996 45.002453 102.36953
+95 1017.5135 44.595547 103.95739
+
+Process finished with exit code 0
