@@ -11,3 +11,5 @@ For linear regression:
 optimizer = tf.train.GradientDescentOptimizer(0.05)
 4. Logistic Regression: 
 ![Image description](images/lr1.png)
+![Image description](images/lr2.png)
+
