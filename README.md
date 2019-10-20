@@ -1,10 +1,7 @@
 Installing Tensorflow:
 
-1. # upgrade pip
-   pip install --upgrade pip
-
-2. # Current stable release for CPU-only
-   pip install tensorflow
+1. pip install --upgrade pip
+2. pip install tensorflow
 
 For linear regression:
 
