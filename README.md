@@ -13,4 +13,5 @@ Logistic Regression:
 ![Image description](images/lr2.png)
 ![Image description](images/lr3.png)
 ![Image description](images/lr4.png)
+![Image description](images/lr5.png)
 
