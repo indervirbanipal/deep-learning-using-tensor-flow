@@ -14,5 +14,8 @@ Logistic Regression:
 ![Image description](images/lr3.png)
 ![Image description](images/lr4.png)
 ![Image description](images/lr5.png)
+
+Neural Networks:
+See first part of ANN on cnn.py and then refer to DL code in the later part of cnn.py following:
 ![Image description](images/lr6.png)
 
