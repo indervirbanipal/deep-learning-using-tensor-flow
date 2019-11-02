@@ -16,6 +16,8 @@ optimizer = tf.train.GradientDescentOptimizer(0.05)
 ![Image description](images/lr5.png)
 
 **Neural Networks:**
+
 See first part of ANN on cnn.py and then refer to DL code in the later part of cnn.py following:
+
 ![Image description](images/lr6.png)
 
