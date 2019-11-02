@@ -21,3 +21,7 @@ See first part of ANN on cnn.py and then refer to DL code in the later part of c
 
 ![Image description](images/lr6.png)
 
+**GD vs Stochastic GD**
+
+While in GD, you have to run through ALL the samples in your training set to do a single update for a parameter in a particular iteration, in SGD, on the other hand, you use ONLY ONE or SUBSET of training sample from your training set to do the update for a parameter in a particular iteration. If you use SUBSET, it is called Minibatch Stochastic gradient Descent.
+
