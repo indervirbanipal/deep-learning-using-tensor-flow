@@ -28,6 +28,7 @@ SGD often converges much faster compared to GD but the error function is not as 
 Summarizing, in Gradient Descent or Batch Gradient Descent, we use the whole training data per epoch whereas, in Stochastic Gradient Descent, we use only single training example per epoch and Mini-batch Gradient Descent lies in between of these two extremes, in which we can use a mini-batch(small portion) of training data per epoch, thumb rule for selecting the size of mini-batch is in power of 2 like 32, 64, 128 etc.
 
 **Constructing a CNN/DNN network**
+
 ![Image description](images/dnn1.png)
 ![Image description](images/dnn2.png)
 ![Image description](images/dnn3.png)
