@@ -43,4 +43,14 @@ Summarizing, in Gradient Descent or Batch Gradient Descent, we use the whole tra
 ![Image description](images/test2.png)
 ![Image description](images/test3.png)
 
+**Constructing a RNN network**
+
+![Image description](images/rnn1.png)
+![Image description](images/rnn2.png)
+![Image description](images/rnn3.png)
+![Image description](images/rnn4.png)
+![Image description](images/rnn5.png)
+![Image description](images/rnn6.png)
+
+
 
