@@ -53,6 +53,21 @@ Summarizing, in Gradient Descent or Batch Gradient Descent, we use the whole tra
 ![Image description](images/rnn6.png)
 ![Image description](images/lstm_text1.png)
 ![Image description](images/lstm_text2.png)
+![Image description](images/lstm_text3.png)
+![Image description](images/lstm_text4.png)
+![Image description](images/lstm_text5.png)
+![Image description](images/lstm_text6.png)
+![Image description](images/lstm_text7.png)
+![Image description](images/lstm_text8.png)
+![Image description](images/lstm_text9.png)
+![Image description](images/lstm_text10.png)
+![Image description](images/lstm_text11.png)
+![Image description](images/lstm_text12.png)
+![Image description](images/lstm_text13.png)
+![Image description](images/lstm_text14.png)
+![Image description](images/lstm_text15.png)
+![Image description](images/lstm_text16.png)
+![Image description](images/lstm_text17.png)
 
 
 
