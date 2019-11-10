@@ -70,8 +70,22 @@ Summarizing, in Gradient Descent or Batch Gradient Descent, we use the whole tra
 ![Image description](images/lstm_text17.png)
 
 **LSTM for character sequence***
+
 ![Image description](images/lstm_char1.png)
 ![Image description](images/lstm_char2.png)
+![Image description](images/lstm_char3.png)
+![Image description](images/lstm_char4.png)
 
+
+**Restricted Boltzmann Machines (RBMs)**
+
+
+![Image description](images/rbm1.png)
+
+![Image description](images/rbm2.png)
+
+![Image description](images/rbm3.png)
+
+![Image description](images/rbm4.png)
 
 
