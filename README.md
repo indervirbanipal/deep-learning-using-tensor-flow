@@ -88,4 +88,42 @@ Summarizing, in Gradient Descent or Batch Gradient Descent, we use the whole tra
 
 ![Image description](images/rbm4.png)
 
+![Image description](images/rbm5.png)
+
+![Image description](images/rbm6.png)
+
+![Image description](images/rbm7.png)
+
+![Image description](images/rbm8.png)
+
+![Image description](images/rbm9.png)
+
+![Image description](images/rbm10.png)
+
+![Image description](images/rbm11.png)
+
+![Image description](images/rbm12.png)
+
+![Image description](images/rbm13.png)
+
+![Image description](images/rbm14.png)
+
+![Image description](images/rbm15.png)
+
+![Image description](images/rbm16.png)
+
+![Image description](images/rbm17.png)
+
+![Image description](images/rbm18.png)
+
+![Image description](images/rbm19.png)
+
+**Deep Belief Networks (DBNs)**
+
+![Image description](images/dbn1.png)
+
+![Image description](images/dbn2.png)
+
+
+
 
