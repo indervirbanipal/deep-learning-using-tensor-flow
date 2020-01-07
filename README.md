@@ -1,3 +1,6 @@
+TODO:
+a) Mark all the files under folders like pycache, MACOSX, etc. in .gitignore
+
 **Installing Tensorflow:**
 1. pip install --upgrade pip
 2. pip install tensorflow
