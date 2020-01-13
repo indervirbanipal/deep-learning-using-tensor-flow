@@ -79,9 +79,11 @@ Summarizing, in Gradient Descent or Batch Gradient Descent, we use the whole tra
 ![Image description](images/lstm_char3.png)
 ![Image description](images/lstm_char4.png)
 
-<br/><br/>
+<br/>
 
 **Restricted Boltzmann Machines (RBMs)**
+
+<br/>
 
 ![Image description](images/rbm1.png) <br/><br/><br/><br/><br/><br/>
 
