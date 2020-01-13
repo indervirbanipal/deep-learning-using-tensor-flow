@@ -89,7 +89,7 @@ Summarizing, in Gradient Descent or Batch Gradient Descent, we use the whole tra
 
 ![Image description](images/rbm2.png) <br/><br/><br/><br/><br/><br/>
 
-![Image description](images/rbm3.png) <br/><br/><br/>
+![Image description](images/rbm3.png) <br/><br/>
 
 ![Image description](images/rbm4.png)
 
