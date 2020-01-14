@@ -1,4 +1,4 @@
-**TODO:**  
+**TODO:**   
 1. Mark all the files under folders like pycache, MACOSX, etc. in .gitignore.  
 
 **Installing Tensorflow:**
